@@ -136,10 +136,22 @@ video::-webkit-media-controls-panel {
 }
 
 .start {
-  height: 140px;
-  width: 140px;
-  margin: 0.3em;
-  background-color: #f2f2f2;
+  height: 50px;
+  width: 50px;
+  margin-top: 1em;
+  margin-left: 1em;
+  margin-bottom: 0.3em;
+  background-color: #411140;
+}
+
+.name {
+  font-family: 'times';
+  margin-left: 1em;
+  margin-bottom: 1em;
+}
+
+#head_border {
+  border-bottom: 1px solid #f2f2f2;
 }
 
 
@@ -188,12 +200,4 @@ video::-webkit-media-controls-panel {
   display: block;
   height: 100vw;
   background-color: transparent;
-}
-
-.head_border {
-  border-bottom: 1px solid #f2f2f2;
-}
-
-.head {
-  margin-bottom: 1em;
 }

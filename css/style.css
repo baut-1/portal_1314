@@ -96,12 +96,23 @@ body {
 .c {
   width: 40vw;
   font-family: 'times';
-  color: #c7ea46;
+  color: #cfceaf;
   text-decoration: none;
   font-size: 15px;
   line-height: 18px;
   white-space: nowrap;
 }
+
+.d {
+  width: 40vw;
+  font-family: 'times';
+  color: darkgreen;
+  text-decoration: none;
+  font-size: 15px;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
 
 .text_dia {
   width: 40vw;

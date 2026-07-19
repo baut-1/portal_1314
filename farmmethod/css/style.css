@@ -34,6 +34,10 @@ body {
   height: 50vw;
 }
 
+a {
+  color: #9c4967;
+}
+
 .head {
   height: 20vw;
   width: 98vw;
@@ -48,17 +52,22 @@ body {
 }
 
 .inhalt {
-  height: 55vw;
-  width: 69vw;
+  height: 160vw;
+  width: 83vw;
   padding: 2vw;
   border: 1px solid #9c4967;
+  margin-bottom: 2vw;
 }
 
 .nav {
   height: 55vw;
-  width: 29vw;
+  width: 15vw;
   padding: 2vw;
   border: 1px solid #9c4967;
+  font-family: times;
+  font-size: 20px;
+  height: 160vw;
+  margin-bottom: 2vw;
 }
 
 
@@ -66,16 +75,28 @@ body {
   font-size: 19px;
   font-family: times;
   color: #9c4967;
+  width: 50vw;
 }
 
-.text:hover {
-    color: #9c4967;
+.text_zitat {
+  font-size: 10px;
+  font-family: times;
+  margin-left: 20px;
 }
+
+
+.text_weit {
+  font-size: 19px;
+  font-family: times;
+  margin-left: 20px;
+}
+
 
 .title {
-  font-size: 28px;
+  font-size: 12px;
   font-family: times;
   color: #9c4967;
+  margin-left: 20vw;
 }
 
 .b {

@@ -63,7 +63,7 @@ div {
 }
 
 .b {
-  
+
   padding: 5px;
 }
 
@@ -79,4 +79,10 @@ a {
 .img_klein {
   width: 15vw;
   height: 15vw;
+}
+
+.img_klein_car {
+  width: 10vw;
+  height: 9vw;
+  padding: 1em;
 }
